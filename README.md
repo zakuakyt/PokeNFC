@@ -43,6 +43,7 @@ Designed with EasyEDA
   <img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/c6bbc33c-d1dd-4d84-b882-54ac5095e5aa" />
   <img width="573" height="618" alt="image" src="https://github.com/user-attachments/assets/ba707bec-bec8-4c77-83a0-b671a2f9ec3c" />
 
+*BOM FOR PCB IS LINKED AS A CSV IN THE REPO*
 
 | Item                | Price(USD) | Supplier | 
 |---------------------|------------|----------|
