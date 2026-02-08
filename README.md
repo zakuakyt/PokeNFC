@@ -3,7 +3,7 @@
 # 🛜 PokeNFC
 
 
-### * Pokemon themed NFC business card *
+###  Pokemon themed NFC business card 
 
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/88bc0370-df3b-4468-83f4-e4170354e5a6" />
