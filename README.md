@@ -1,11 +1,12 @@
 <div align="center">
 
-# 🛜 Zazanfc
-
-### * Pokemon themeed NFC business card *
+# 🛜 PokeNFC
 
 
-<img width="554" height="853" alt="image" src="https://github.com/user-attachments/assets/dd1bcfd5-7952-4353-bd6b-d64495fb9931" />
+### * Pokemon themed NFC business card *
+
+
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/88bc0370-df3b-4468-83f4-e4170354e5a6" />
 
 
 
@@ -35,6 +36,10 @@ Designed with EasyEDA
 
 
 
+
+
+  #### Fabrication
+  <img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/c6bbc33c-d1dd-4d84-b882-54ac5095e5aa" />
 
 
 
