@@ -9,6 +9,7 @@
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/88bc0370-df3b-4468-83f4-e4170354e5a6" />
 
 
+I made this so I could network at events easier and show people something cool and unique!
 
 
 ---
@@ -38,7 +39,7 @@ Designed with EasyEDA
 
 
 
-  #### Fabrication
+  ## Fabrication
   
   <img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/c6bbc33c-d1dd-4d84-b882-54ac5095e5aa" />
   <img width="573" height="618" alt="image" src="https://github.com/user-attachments/assets/ba707bec-bec8-4c77-83a0-b671a2f9ec3c" />
@@ -50,6 +51,9 @@ Designed with EasyEDA
 | PCB Prototype+PCB-A | $13.60     | JLCPCB   |
 | Total:13.60         |            |          |
 
+## How to use 
+
+Install any NFC editing app, tap the NFC on the phone, and set it to a link. You're done!
 
 
 
