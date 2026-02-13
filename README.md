@@ -9,6 +9,9 @@
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/88bc0370-df3b-4468-83f4-e4170354e5a6" />
 
 
+
+---
+
 I made this so I could network at events easier and show people something cool and unique!
 
 
