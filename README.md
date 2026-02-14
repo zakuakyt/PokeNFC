@@ -57,7 +57,7 @@ Designed with EasyEDA
 ## How to use 
 
 Install any NFC editing app, tap the NFC on the phone, and set it to a link. You're done!
-
+You can modify the link any time.
 
 
 
